@@ -1,5 +1,5 @@
 # CFD-ML-project
-machine learning and genetic algorithm codes for the optimization of microchannel heat sinks
+Machine learning and genetic algorithms for the optimization of microchannel heat sinks
 
 
 # Research Review
